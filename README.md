@@ -1,4 +1,4 @@
-```markdown
+
 # JSON Data OpenAPI
 
 ## Overview
@@ -40,4 +40,3 @@ If you encounter any issues or have any questions, please feel free to open an i
 
 - This project was inspired by the need for a standardized way to describe JSON data structures in APIs.
 - Special thanks to all the contributors who have helped improve and maintain this project.
-```
