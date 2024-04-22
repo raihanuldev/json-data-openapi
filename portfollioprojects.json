@@ -1,0 +1,48 @@
+[
+  {
+    "id": 1,
+    "name": "CYCO Tv  ",
+    "image": "https://i.ibb.co/WHcsYpH/cycooo.png",
+    "details": "CYCO is a streaming platform. It offers a range of movies, TV shows, and other forms of entertainment content for users to watch online. ⚔️",
+    "liveLink": "https://cyco-inc.netlify.app/",
+    "githubClient": "https://github.com/soloman-err/cyco",
+    "githubServer": "https://github.com/soloman-err/cyco-server"
+  },
+  {
+    "id": 3,
+    "name": "SpeakUp ",
+    "image": "https://i.ibb.co/b6tvhzX/Screenshot-165.png",
+    "details": "Full-Stack Langauge Learning website with CRUD operations.The website dashboard is different for different users(admin,instructors,students/users).Users can see many Language classes and select the classes and can payment.",
+    "liveLink": "https://language-school-9136f.web.app/",
+    "githubClient": "https://github.com/UniqueCoderRihan/SpeakUp-Client",
+    "githubServer": "https://github.com/UniqueCoderRihan/SpeakUp-server"
+  }
+  ,
+  {
+    "id": 5,
+    "name": "EduLodge ",
+    "image": "https://i.ibb.co/b7tQt18/Screenshot-187.png",
+    "details": "Full-stack Collage Facilities Web Application. Where Student can See Details Her Chooses Collage. Also he/him Can Give Feedback Their Collage. Edit Profile,give feedback,application submission.",
+    "liveLink": "https://edulodge-6481d.web.app/",
+    "githubClient": "https://github.com/UniqueCoderRihan/EduLodge",
+    "githubServer": "https://github.com/UniqueCoderRihan/EduLodge-server"
+  },
+  {
+    "id": 2,
+    "name": "Doll Store Marketplace",
+    "image": "https://i.ibb.co/jLhsGP5/Screenshot-188.png",
+    "details": "Full-Stack Doll Store website with CRUD operations.There User can Add New Doll. also User can Details Their Liked Doll",
+    "liveLink": "https://toystore-rihan.netlify.app/",
+    "githubClient": "https://github.com/UniqueCoderRihan/Doll-Store-",
+    "githubServer": "https://github.com/UniqueCoderRihan/Doll-Store-Server"
+  },
+  {
+    "id": 4,
+    "name": "Unique Chef",
+    "image": "https://i.ibb.co/HxdHfj7/Screenshot-172.png",
+    "details": "MERN-stack Indian recipe hunting website.Users can see many Indian recipes in this website of famous Indian chefs.",
+    "liveLink": "https://recipes-corner-4441e.web.app/",
+    "githubClient": "https://github.com/UniqueCoderRihan/Unique-Chef",
+    "githubServer": "https://github.com/UniqueCoderRihan/Unique-Chef-Server"
+  }
+]
