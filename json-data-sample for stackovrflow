@@ -1,0 +1,15 @@
+{
+    "id": 24,
+    "seller": "Raihan",
+    "sellerEmail":"rihanthedev@gmail.com",
+    "verified": "true",
+    "resalePrice": 100,
+    "originalPrice": 150,
+    "used": 9,
+    "location": "Dhaka",
+    "model": "PH SmartPhone",
+    "img": "https://m.media-amazon.com/images/I/817aOXLoNpL._AC_SL1500_.jpg",
+    "price": 107,
+    "description": "Its product categories include iPhone, Mac, iPad, and Wearables, Home and Accessories. Its software platforms include iOS, iPadOS, macOS, watchOS,",
+    "category": "smartphone"
+  }
