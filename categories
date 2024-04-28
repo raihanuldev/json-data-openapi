@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Mens",
+    "description": "Mens Category",
+    "imageUrl": "https://hips.hearstapps.com/hmg-prod/images/mens-fashion-outfits-index-1621544168.jpg?crop=1.00xw:1.00xh;0,0&resize=640:*"
+  },
+  {
+    "id": 2,
+    "name": "Womens",
+    "description": "Womens Category",
+    "imageUrl": "https://img.hollisterco.com/is/image/anf/hco-2023-JulyWk2-Jeans-Grid-Womens-Pants-Endline_R.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Kids",
+    "description": "Kids Category",
+    "imageUrl": "https://sslimages.shoppersstop.com/sys-master/root/hc2/h85/30114329296926/Main-Banner-Static-Kids-Msite_4878689864.gif"
+  }
+]
